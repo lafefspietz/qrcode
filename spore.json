@@ -1,0 +1,16 @@
+{
+    "json":"https://raw.githubusercontent.com/lafefspietz/qrcode/refs/heads/main/spore.json",
+    "php":"https://raw.githubusercontent.com/lafefspietz/qrcode/refs/heads/main/spore.php",
+    "files":[
+        "qrcode.html",
+        "README.md",
+        "index.html",
+        "editor.html",
+        "php.js",
+        "spore.json",
+        "spore.php",
+        "load-file.php",
+        "save-file.php",
+        "list-files.php"
+    ]
+}
