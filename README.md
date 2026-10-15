@@ -13,6 +13,3 @@
  - [QR code creator Masahiro Hara Wikipedia page](https://en.wikipedia.org/wiki/Masahiro_Hara)
  - [World QR Code Day web page](https://www.qrcode-tiger.com/world-qr-code-day)
  - [Denso Wave QR code page](https://www.qrcode.com/en/)
- - [localhost/qrcode/](http://localhost/qrcode/)
- - [editor.html](editor.html)
- - [spore.json](spore.json)
